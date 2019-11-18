@@ -934,7 +934,7 @@ img {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  min-height: 65px;
+  min-height: 80px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -979,7 +979,7 @@ img {
 .cajon-image {
   position: absolute;
   width: 100%;
-  min-height: 715px;
+  min-height: 880px;
   background-image: url('../images/Picture9.jpg');
   background-position: 50% 50%;
   background-size: cover;
@@ -994,7 +994,7 @@ img {
 .sphere-image {
   position: absolute;
   width: 100%;
-  min-height: 715px;
+  min-height: 880px;
   background-image: url('../images/Untitled.JPG');
   background-position: 50% 50%;
   background-size: cover;
@@ -1004,7 +1004,7 @@ img {
 .spoton-image {
   position: absolute;
   width: 100%;
-  min-height: 715px;
+  min-height: 880px;
   background-image: url('../images/3D-Product-Render-2-Current-View.jpg');
   background-position: 50% 50%;
   background-size: cover;
@@ -1030,7 +1030,7 @@ img {
 .halo-image {
   position: absolute;
   width: 100%;
-  min-height: 715px;
+  min-height: 880px;
   background-image: url('../images/IMG_2125.JPG');
   background-position: 50% 35%;
   background-size: cover;
@@ -1041,7 +1041,7 @@ img {
   position: absolute;
   display: block;
   width: 100%;
-  min-height: 715px;
+  min-height: 880px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -1060,7 +1060,7 @@ img {
 .segway-image {
   position: absolute;
   width: 100%;
-  min-height: 715px;
+  min-height: 880px;
   background-image: url('../images/vlcsnap-2019-10-28-23h38m08s297-2.png');
   background-position: 50% 50%;
   background-size: cover;
@@ -1070,7 +1070,7 @@ img {
 .tetris-image {
   position: absolute;
   width: 100%;
-  min-height: 715px;
+  min-height: 880px;
   background-image: url('../images/tetris-308443_960_720.png');
   background-position: 0px 0px;
   background-size: 25%;
@@ -1080,7 +1080,7 @@ img {
 .fea-image {
   position: absolute;
   width: 100%;
-  min-height: 715px;
+  min-height: 880px;
   background-image: url('../images/Fea2.jpg');
   background-position: 75% 50%;
   background-size: cover;
@@ -1090,7 +1090,7 @@ img {
 .sketching-image {
   position: absolute;
   width: 100%;
-  min-height: 715px;
+  min-height: 880px;
   border-radius: 20px;
   background-image: url('../images/SCAN0006.jpg');
   background-position: 100% 50%;
@@ -1101,7 +1101,7 @@ img {
 .big-data-image {
   position: absolute;
   width: 100%;
-  min-height: 715px;
+  min-height: 880px;
   background-image: url('../images/Data-Insurance.jpg');
   background-position: 50% 50%;
   background-size: cover;
@@ -1112,7 +1112,7 @@ img {
   position: absolute;
   display: block;
   width: 100%;
-  min-height: 715px;
+  min-height: 880px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
